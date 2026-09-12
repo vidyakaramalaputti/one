@@ -267,7 +267,7 @@
 <header class="site">
   <div class="container header-row">
     <button class="icon-btn menu-toggle" id="menuToggle" aria-label="Open menu" aria-expanded="false">
-      <i class="fas fa-bars"></i>
+      <em class="fas fa-bars"></em>
     </button>
     <a class="brand" href="#">Nexus<span class="dot">Shop</span></a>
 
@@ -281,8 +281,8 @@
 
     <form class="search-form" role="search" id="searchForm">
       <label for="searchInput" class="visually-hidden">Search products</label>
-      <input id="searchInput" type="search" placeholder="Search for anything…" autocomplete="off">
-      <button type="submit" aria-label="Search"><i class="fas fa-search"></i></button>
+      <emnput id="searchInput" type="search" placeholder="Search for anything…" autocomplete="off">
+      <button type="submit" aria-label="Search"><em class="fas fa-search"></i></button>
     </form>
 
     <div class="header-tools">
